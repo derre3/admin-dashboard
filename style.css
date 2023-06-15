@@ -26,7 +26,7 @@ body {
 .sidebar {
   background-color: #0073ff;
   color: #ffffff;
-  padding: 1rem;
+  padding: 1.25rem;
 
   grid-row: 1 / -1;
 }
@@ -50,7 +50,7 @@ body {
 /* header */
 .header {
   background-color: #ffffff;
-  padding: 1rem;
+  padding: 0 1.25rem 1.25rem 1.25rem;
   box-shadow: #0073ffd0 0px 5px, #0073ff85 0px 10px, #0073ff5d 0px 15px,
     #0073ff22 0px 20px, #0073ff22 0px 25px;
 
