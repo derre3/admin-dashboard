@@ -1,0 +1,39 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  height: 100vh;
+}
+
+.container {
+  min-height: 100%;
+  display: grid;
+  grid-template-columns: 1fr 5fr;
+  grid-template-rows: 1fr 4fr;
+}
+
+.sidebar {
+  background-color: #0073ff;
+  color: #ffffff;
+  padding: 1rem;
+
+  grid-row: 1 / -1;
+}
+
+ul {
+  list-style: none;
+  margin-top: 2rem;
+  display: grid;
+  gap: 0.7rem;
+}
+
+.header {
+  background-color: green;
+}
+
+.content {
+  background-color: yellow;
+}
