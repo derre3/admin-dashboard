@@ -138,6 +138,10 @@ body {
   font-weight: 600;
 }
 
+.header-buttons button:hover {
+  cursor: pointer;
+}
+
 /* content */
 .content {
   background-color: #d6e8ffdb;
@@ -182,6 +186,10 @@ body {
 .card-item img {
   width: 1.3rem;
   margin-right: 0.75rem;
+}
+
+.card-icon img:hover {
+  cursor: pointer;
 }
 
 .card-title {
