@@ -209,6 +209,7 @@ body {
   border-radius: 10px;
   display: grid;
   gap: 16px;
+  box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
 }
 
 .card-content > div {
@@ -229,6 +230,7 @@ body {
   background-color: #ffffff;
   margin: 1rem;
   border-radius: 10px;
+  box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
 }
 
 .side-profile {
