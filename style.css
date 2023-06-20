@@ -85,7 +85,7 @@ body {
   border-radius: 20px;
   height: 1.5rem;
   width: 90%;
-  padding-left: 1ch;
+  padding: 0 2ch;
   border-style: none;
 
   background-color: #d6e8ffdb;
