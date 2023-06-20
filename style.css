@@ -147,7 +147,7 @@ body {
   background-color: #d6e8ffdb;
 
   display: grid;
-  grid-template-columns: 3fr 1fr;
+  grid-template-columns: 5fr 2fr;
 }
 
 .card-container {
@@ -212,16 +212,16 @@ body {
 
 .side-card {
   background-color: #ffffff;
-  padding: 1rem;
+  padding: 2rem;
   margin: 1rem;
   border-radius: 10px;
   display: grid;
-  gap: 16px;
+  gap: 20px;
   box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
 }
 
 .card-content > div {
-  margin-bottom: 0.5rem;
+  margin-bottom: 1rem;
   color: #686868;
 }
 
